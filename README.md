@@ -11,7 +11,7 @@ GitBash
 
 2.Create a new folder and copy the path.
 
-3.Navigate to the folder using:
+3.Navigate to the folder in gitbash using:
 cd "your-folder-path"
 
 4.Clone the repository:
