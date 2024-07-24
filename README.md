@@ -29,13 +29,16 @@ https://github.com/milvus-io/milvus/releases/download/v2.3.19/milvus-standalone-
 2.Open the GitBash terminal.
 
 3.Run the command:
+
 docker-compose up -d
 
 ### 4. Create and Activate a Virtual Environment
 1.Open a new terminal and create virtual environment:
+
 python -m venv myenv
 
 2.Activate the virtual environment:
+
 \myenv\Scripts\activate (for Windows)
 
 ### 5. Install Dependencies and Setup Environment Variables
@@ -48,9 +51,13 @@ pip install -r requirements.txt
 Open the ingest.ipynb file.
 
 Select the kernel and run the file. This will:
+
 -->Ingest the data.
+
 -->Convert the data into chunks.
+
 -->Perform RAPTOR indexing.
+
 -->Store the indexed data in the Milvus vector database
 
 ### 7.Launch the Chatbot Interface
