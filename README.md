@@ -1,4 +1,9 @@
 # RAG-With-RAPTOR
+
+## Knowledge base 
+I have used the first 9 modules provided by Zerodha Varsity as the knowledge base for RAG. I have combined it in groups of 3 with each document containing 3 modules. This is used for content extraction to create a Chatbot for Stock market 
+Link: https://zerodha.com/varsity/modules/
+
 ## Prerequisites
 Docker Desktop
 
