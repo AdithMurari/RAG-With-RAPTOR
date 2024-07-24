@@ -15,7 +15,7 @@ GitBash
 cd "your-folder-path"
 
 4.Clone the repository:
-git clone https://github.com/AdithMurari/RAG-With-RAPTOR.git
+git clone "https://github.com/AdithMurari/RAG-With-RAPTOR.git"
 
 ### 2. Download and Setup Docker Compose
 1.Download the YAML file from the link below:
